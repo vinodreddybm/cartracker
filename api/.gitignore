@@ -1,0 +1,9 @@
+#git ignore files
+.idea
+.gradle
+.build
+gradle
+out
+gradlew
+gradlew.bat
+settings.gradle
